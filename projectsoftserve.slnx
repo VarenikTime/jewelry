@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="projectsoftserve.Tests/projectsoftserve.Tests.csproj" />
+  <Project Path="projectsoftserve/projectsoftserve.csproj" />
+</Solution>

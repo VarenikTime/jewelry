@@ -1,0 +1,86 @@
+[
+  {
+    "Address": "Lviv, Shevchenka 12",
+    "ItemsCount": 3,
+    "Items": [
+      {
+        "Name": "Ring",
+        "Metal": "Gold",
+        "Weight": 2.5,
+        "Price": 150.0
+      },
+      {
+        "Name": "Necklace",
+        "Metal": "Silver",
+        "Weight": 15.0,
+        "Price": 80.0
+      },
+      {
+        "Name": "Bracelet",
+        "Metal": "Gold",
+        "Weight": 5.0,
+        "Price": 300.0
+      }
+    ]
+  },
+  {
+    "Address": "Kyiv, Khreshchatyk 1",
+    "ItemsCount": 2,
+    "Items": [
+      {
+        "Name": "Earrings",
+        "Metal": "Platinum",
+        "Weight": 4.0,
+        "Price": 600.0
+      },
+      {
+        "Name": "Ring",
+        "Metal": "Gold",
+        "Weight": 3.0,
+        "Price": 250.0
+      }
+    ]
+  },
+  {
+    "Address": "Odesa, Deribasivska 5",
+    "ItemsCount": 2,
+    "Items": [
+      {
+        "Name": "Pendant",
+        "Metal": "Silver",
+        "Weight": 8.0,
+        "Price": 40.0
+      },
+      {
+        "Name": "Chain",
+        "Metal": "Silver",
+        "Weight": 12.0,
+        "Price": 90.0
+      }
+    ]
+  },
+  {
+    "Address": "Kharkiv, Sumska 10",
+    "ItemsCount": 3,
+    "Items": [
+      {
+        "Name": "Ring",
+        "Metal": "Gold",
+        "Weight": 2.0,
+        "Price": 200.0
+      },
+      {
+        "Name": "Bracelet",
+        "Metal": "Platinum",
+        "Weight": 10.0,
+        "Price": 450.0
+      },
+      {
+        "Name": "Crown",
+        "Metal": "Gold",
+        "Weight": 50.0,
+        "Price": 1200.0
+      }
+    ]
+  }
+]
